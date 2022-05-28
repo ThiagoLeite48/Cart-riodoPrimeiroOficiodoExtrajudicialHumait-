@@ -18,7 +18,7 @@ html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("/cartorio-1oficio-extrajudicial-humaita/img/cartorio.jpg");
+    background-image: url("./img/cartorio.jpg");
     min-height: 80%;
 }
 
